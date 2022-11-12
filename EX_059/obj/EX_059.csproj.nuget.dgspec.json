@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\i-kol\\Desktop\\IT\\All Practic\\Как не нужно писать код Часть 2\\EX_059\\EX_059.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\i-kol\\Desktop\\IT\\All Practic\\Как не нужно писать код Часть 2\\EX_059\\EX_059.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i-kol\\Desktop\\IT\\All Practic\\Как не нужно писать код Часть 2\\EX_059\\EX_059.csproj",
+        "projectName": "EX_059",
+        "projectPath": "C:\\Users\\i-kol\\Desktop\\IT\\All Practic\\Как не нужно писать код Часть 2\\EX_059\\EX_059.csproj",
+        "packagesPath": "C:\\Users\\i-kol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i-kol\\Desktop\\IT\\All Practic\\Как не нужно писать код Часть 2\\EX_059\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i-kol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

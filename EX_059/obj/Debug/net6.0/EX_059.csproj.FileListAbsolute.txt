@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\bin\Debug\net6.0\EX_059.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\bin\Debug\net6.0\EX_059.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\bin\Debug\net6.0\EX_059.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\bin\Debug\net6.0\EX_059.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\bin\Debug\net6.0\EX_059.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\refint\EX_059.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\EX_059.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\EX_059\obj\Debug\net6.0\ref\EX_059.dll

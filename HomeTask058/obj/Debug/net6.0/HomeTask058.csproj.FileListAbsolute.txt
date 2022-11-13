@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\bin\Debug\net6.0\HomeTask058.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\bin\Debug\net6.0\HomeTask058.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\bin\Debug\net6.0\HomeTask058.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\bin\Debug\net6.0\HomeTask058.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\bin\Debug\net6.0\HomeTask058.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\refint\HomeTask058.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\HomeTask058.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код Часть 2\HomeTask058\obj\Debug\net6.0\ref\HomeTask058.dll
